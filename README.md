@@ -31,4 +31,4 @@ Given the outstanding performance of large pre-trained general-purpose foundatio
 - Run test.py
 
 ## Contact details
-If you have any questions, please contact email@anonymized.com (The current paper is undergoing double-blind review at MICCAI 2025).
+If you have any questions, please contact 1833726826@qq.com.
