@@ -1,4 +1,5 @@
-# SpaMCAF
+# SpaMCAF 
+
 ## Introduction
 Single-cell RNA sequencing (scRNA-seq) has transformed our understanding of individual cells within a population, but it lacks spatial information, limiting its ability to decipher cell interactions and spatial correlations in tissue structures. Spatial transcriptomics (ST) overcomes this by preserving the spatial localization of cells, offering detailed gene expression patterns, and demonstrating great potential in immunology, developmental biology, and oncology. However, ST technologies still struggle to balance spatial resolution and sequencing depth. Image-based methods offer single-cell spatial resolution but limited sequencing depth, while NGS-based methods can profile the entire transcriptome but have low spatial resolution. Existing deep learning-based methods also face challenges in achieving both high spatial resolution and sequencing depth. To address this, we developed SpaMCAF, a multimodal deep learning framework that enhances spatial gene expression by integrating multi-scale feature fusion and linear feature extraction using histological images and low-resolution ST data. SpaMCAF captures both macroscopic tissue structure and microscopic cellular patterns, outperforming existing methods in gene expression prediction and generating high-resolution gene expression maps.
 
@@ -32,3 +33,5 @@ Given the outstanding performance of large pre-trained general-purpose foundatio
 
 ## Contact details
 If you have any questions, please contact 1833726826@qq.com and wenwen.min@qq.com.
+
+## Paper
